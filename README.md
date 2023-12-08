@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Foxglovery
+- 👋 Hi, I’m Gabriel Ferguson
 - 👀 I’m interested in fitness, art, and just general tomfoolery 
 - 🌱 I’m currently learning Full-Stack Dev at NSS
 - 💞️ I’m looking to collaborate on TBD
